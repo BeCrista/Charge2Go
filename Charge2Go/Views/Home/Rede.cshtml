@@ -1,0 +1,63 @@
+﻿@model Charge2Go.Models.ViewModel.RedeVM
+
+@{
+    ViewData["Title"] = "Rede";
+}
+
+<link rel="stylesheet" href="~/css/stylesRede.css" />
+
+<!-- Google map -->
+<div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
+    <iframe src="https://maps.google.com/maps?q=braga&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="50%" style="border:0" allowfullscreen></iframe>
+</div>
+
+<div class="top-image-text-container d-flex">
+    <div class="inner-inner-container align-self-center position-relative">
+        @foreach (var redeTopSection in Model.RedeChargingTop)
+        {
+            <div class="position-absolute top-50 start-50 translate-middle text-center text-white">
+                <h1 class="text-white">
+                    <p><strong>@redeTopSection.Title</strong></p>
+                    <p>@redeTopSection.Subtitle</p>
+                </h1>
+            </div>
+            <img src="@redeTopSection.ImageTop" alt="Rede Top Image" class="img-fluid mt-3" />
+        }
+    </div>
+</div>
+
+<!-- Two-column layout for RedeChargingPoint -->
+<div class="row mt-5">
+    @foreach (var chargingPoint in Model.RedeChargingPoint)
+    {
+        <div class="col-md-6">
+            <h2 class="charging-point-title">@chargingPoint.NormalChargingPointTitle</h2>
+            <p class="charging-point-description">@chargingPoint.NormalChargingPointDescription</p>
+        </div>
+        <div class="col-md-6">
+            <h2 class="charging-point-title">@chargingPoint.QuickChargingPointTitle</h2>
+            <p class="charging-point-description">@chargingPoint.QuickChargingPointDescription</p>
+        </div>
+    }
+</div>
+
+<!-- Contact Us Form -->
+<div class="contact-form mt-5">
+    <h2>Contacte-Nos</h2>
+    <form method="post" action="@Url.Action("SubmitForm", "Home")">
+        <div class="form-group mb-3">
+            <input type="text" class="form-control" placeholder="Nome" name="Nome" required>
+        </div>
+        <div class="form-group mb-3">
+            <input type="email" class="form-control" placeholder="Email" name="Email" required>
+        </div>
+        <div class="form-group mb-3">
+            <input type="tel" class="form-control" placeholder="Telefone" name="Telefone" required>
+        </div>
+        <div class="form-group mb-3">
+            <textarea class="form-control" placeholder="Mensagem" name="Mensagem" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

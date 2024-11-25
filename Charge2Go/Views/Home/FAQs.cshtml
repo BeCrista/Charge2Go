@@ -1,0 +1,64 @@
+﻿@model Charge2Go.Models.ViewModel.FAQsVM
+
+@{
+    ViewData["Title"] = "FAQs";
+}
+
+<!-- Add your custom CSS file -->
+<link rel="stylesheet" href="~/css/stylesFAQs.css">
+
+<div class="top_title_wrapper">
+    <div class="inner-container">
+        @foreach (var faq in Model.FAQs)
+        {
+            <div>
+                <h1>@faq.Title</h1>
+                <img src="@faq.ImageFAQs" alt="">
+            </div>
+        }
+    </div>
+</div>
+
+<div class="faq-questions-dropdown">
+    <label for="faq-dropdown">Selecione as perguntas:</label>
+    <select id="faq-dropdown">
+        @foreach (var faqQuestion in Model.FAQsQuestions)
+        {
+            <option value="@faqQuestion.ID">@faqQuestion.QuestionFAQ</option>
+        }
+    </select>
+</div>
+
+<!-- Placeholder for displaying the selected FAQ answer -->
+<div id="faq-answer">
+    <p>@Model.FAQsQuestions.FirstOrDefault()?.AnswerFAQ</p>
+</div>
+
+@{
+    // Serialize the FAQsQuestions list to a JSON string
+    var faqQuestionsJson = System.Text.Json.JsonSerializer.Serialize(Model.FAQsQuestions);
+}
+
+<script>
+    // Parse the JSON string into a JavaScript variable
+    var faqQuestions = @Html.Raw(faqQuestionsJson);
+
+    // Get the dropdown element and the answer element
+    var dropdown = document.getElementById("faq-dropdown");
+    var answerElement = document.getElementById("faq-answer");
+
+    // Update the selected answer when the dropdown changes
+    dropdown.addEventListener("change", function () {
+        // Get the selected question ID
+        var selectedQuestionId = parseInt(this.value);
+
+        // Find the selected question from the FAQsQuestions list
+        var selectedQuestion = faqQuestions.find(function (question) {
+            return question.ID === selectedQuestionId;
+        });
+
+        // Set the answer text to the selected question's answer
+        answerElement.innerHTML = "<p>" + selectedQuestion.AnswerFAQ + "</p>";
+    });
+</script>
+

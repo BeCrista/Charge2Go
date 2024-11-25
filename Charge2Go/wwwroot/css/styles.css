@@ -1,0 +1,71 @@
+﻿/* Homepage Slider Styles */
+.homepage-slider {
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    margin-bottom: 15px;
+    margin-right: 600px;
+}
+
+    .carousel-caption h1 {
+        font-family: 'heroregular', sans-serif;
+        font-size: 40px;
+        color: lawngreen;
+    }
+
+    .carousel-caption p {
+        font-family: 'heroregular', sans-serif;
+        font-size: 18px;
+        color: lawngreen;
+    }
+
+    .carousel-caption .btn {
+        font-family: 'heroregular', sans-serif;
+        font-size: 20px;
+        background-color: white;
+        color: lawngreen;
+        border: none;
+        padding: 15px 30px;
+        border-radius: 20px;
+        text-transform: uppercase;
+    }
+
+/* Middle Section Styles */
+.top-image-text-container {
+    position: relative;
+}
+
+.inner-inner-container {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+    .position-absolute h1,
+    .position-absolute h2 {
+        font-size: 25px;
+        line-height: 1.5;
+        font-weight: normal;
+    }
+
+    .position-absolute .btn {
+        font-size: 20px;
+        padding: 15px 30px;
+        border-radius: 25px;
+        background-color: #fff;
+        color: lawngreen;
+        font-family: 'heroregular', sans-serif;
+        text-transform: uppercase;
+    }
+
+.inner-inner-container img {
+    width: 100%;
+    margin-top: 20px;
+}

@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Charge2Go.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Charge2Go.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\FAQs\\a4efe18d-0f09-44c1-b545-4299259f4ab4.png",
+      "PackagePath": "staticwebassets\\Images\\FAQs\\a4efe18d-0f09-44c1-b545-4299259f4ab4.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\FAQs\\c157c56c-48fb-4215-86bb-42975de584e6.png",
+      "PackagePath": "staticwebassets\\Images\\FAQs\\c157c56c-48fb-4215-86bb-42975de584e6.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\HomePageMiddle\\e26d27a0-2ad7-4541-b769-c786e34bfad8.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageMiddle\\e26d27a0-2ad7-4541-b769-c786e34bfad8.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\HomePageSlider\\22f8f8e9-1d5d-42c6-b850-8696640bcd98.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\22f8f8e9-1d5d-42c6-b850-8696640bcd98.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\HomePageSlider\\54d2804d-fa8f-4db2-816c-34985f343cfd.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\54d2804d-fa8f-4db2-816c-34985f343cfd.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\HomePageSlider\\d512d243-b8b5-413b-9f25-4a7afd7fd0a4.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\d512d243-b8b5-413b-9f25-4a7afd7fd0a4.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\Rede\\32f615f5-4d85-4352-a710-626837d0d7ea.png",
+      "PackagePath": "staticwebassets\\Images\\Rede\\32f615f5-4d85-4352-a710-626837d0d7ea.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffBottom\\22a0e1f7-337c-401d-badb-b40b5816842f.png",
+      "PackagePath": "staticwebassets\\Images\\TariffBottom\\22a0e1f7-337c-401d-badb-b40b5816842f.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffBottom\\835a0392-a0ed-4614-80a0-bc49aa114325.png",
+      "PackagePath": "staticwebassets\\Images\\TariffBottom\\835a0392-a0ed-4614-80a0-bc49aa114325.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\25bfae3e-ab31-4244-90a5-fb696f93253f.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\25bfae3e-ab31-4244-90a5-fb696f93253f.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\550cd9c6-e78b-427b-aef5-62950d01842c.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\550cd9c6-e78b-427b-aef5-62950d01842c.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\57dba02e-7dbf-4447-b3f2-4181823ea42c.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\57dba02e-7dbf-4447-b3f2-4181823ea42c.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\93403c0a-9b4a-4750-8fc8-b0af078a1056.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\93403c0a-9b4a-4750-8fc8-b0af078a1056.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\bf2ce276-e9fa-4927-97f4-ec46e3a489b6.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\bf2ce276-e9fa-4927-97f4-ec46e3a489b6.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffMiddle\\e326097e-cf99-49aa-8173-1004534b82f7.png",
+      "PackagePath": "staticwebassets\\Images\\TariffMiddle\\e326097e-cf99-49aa-8173-1004534b82f7.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffTop\\67b7e89a-cd31-4aa6-9c3c-9a61601bda49.png",
+      "PackagePath": "staticwebassets\\Images\\TariffTop\\67b7e89a-cd31-4aa6-9c3c-9a61601bda49.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\TariffTop\\d693a324-cf67-40be-9d8d-ab5644bd7f1b.png",
+      "PackagePath": "staticwebassets\\Images\\TariffTop\\d693a324-cf67-40be-9d8d-ab5644bd7f1b.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\charge2go_logo.png",
+      "PackagePath": "staticwebassets\\Images\\charge2go_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\charge2go_tariffMiddle_background.png",
+      "PackagePath": "staticwebassets\\Images\\charge2go_tariffMiddle_background.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\Images\\charge2go_tariffMiddle_separator.png",
+      "PackagePath": "staticwebassets\\Images\\charge2go_tariffMiddle_separator.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\css\\stylesFAQs.css",
+      "PackagePath": "staticwebassets\\css\\stylesFAQs.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\css\\stylesRede.css",
+      "PackagePath": "staticwebassets\\css\\stylesRede.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\css\\stylesTarifarios.css",
+      "PackagePath": "staticwebassets\\css\\stylesTarifarios.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Charge2Go\\Charge2Go\\Charge2Go\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Charge2Go.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Charge2Go.props",
+      "PackagePath": "build\\Charge2Go.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Charge2Go.props",
+      "PackagePath": "buildMultiTargeting\\Charge2Go.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Charge2Go.props",
+      "PackagePath": "buildTransitive\\Charge2Go.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

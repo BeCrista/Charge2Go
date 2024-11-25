@@ -1,0 +1,55 @@
+﻿@model Charge2Go.Models.TariffMiddle
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TariffMiddle</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TariffPriceImage" class="control-label"></label>
+                <input type="file" name="tariffPriceFile" class="form-control file" />
+            </div>
+            <div class="form-group">
+                <label asp-for="TariffPriceDescription" class="control-label"></label>
+                <input asp-for="TariffPriceDescription" class="form-control" />
+                <span asp-validation-for="TariffPriceDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TariffScheduleImage" class="control-label"></label>
+                <input type="file" name="tariffScheduleFile" class="form-control file" />
+            </div>
+            <div class="form-group">
+                <label asp-for="TariffScheduleDescription" class="control-label"></label>
+                <input asp-for="TariffScheduleDescription" class="form-control" />
+                <span asp-validation-for="TariffScheduleDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TariffCampaignImage" class="control-label"></label>
+                <input type="file" name="tariffCampaingFile" class="form-control file" />
+            </div>
+            <div class="form-group">
+                <label asp-for="TariffCampaignDescription" class="control-label"></label>
+                <input asp-for="TariffCampaignDescription" class="form-control" />
+                <span asp-validation-for="TariffCampaignDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

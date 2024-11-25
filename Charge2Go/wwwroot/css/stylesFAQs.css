@@ -1,0 +1,49 @@
+﻿.top_title_wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+    .top_title_wrapper h1 {
+        font-size: 33px;
+        font-family: Lucida Console;
+        color: #4DA541;
+        padding: 0;
+    }
+
+    .top_title_wrapper img {
+        height: auto;
+        max-width: 100%;
+    }
+
+/* Style for the dropdown container */
+.faq-questions-dropdown {
+    margin-top: 20px;
+}
+
+    /* Style for the label */
+    .faq-questions-dropdown label {
+        font-size: 18px;
+        font-weight: bold;
+        color: #4DA541;
+    }
+
+    /* Style for the select dropdown */
+    .faq-questions-dropdown select {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+        /* Style for the selected option in the dropdown */
+        .faq-questions-dropdown select option:checked {
+            background-color: #4DA541;
+            color: #fff;
+        }
+
+        /* Style for the dropdown options */
+        .faq-questions-dropdown select option {
+            background-color: #fff;
+            color: #000;
+        }

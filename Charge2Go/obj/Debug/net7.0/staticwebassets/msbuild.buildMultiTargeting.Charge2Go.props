@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Charge2Go.props" />
+</Project>

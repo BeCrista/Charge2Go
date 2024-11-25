@@ -1,0 +1,151 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-71o0b7dox9] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-71o0b7dox9] {
+  color: #0077cc;
+}
+
+.btn-primary[b-71o0b7dox9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-71o0b7dox9], .nav-pills .show > .nav-link[b-71o0b7dox9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-71o0b7dox9] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-71o0b7dox9] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-71o0b7dox9] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+.navbar[b-71o0b7dox9] {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+
+.navbar-expand-md[b-71o0b7dox9] {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+    .navbar-expand-md .navbar-collapse[b-71o0b7dox9] {
+        display: -ms-flexbox !important;
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+.navbar_menu .nav.navbar-nav[b-71o0b7dox9] {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.navbar_menu_content[b-71o0b7dox9] {
+    flex-basis: 100%;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.justify-content-between[b-71o0b7dox9] {
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+}
+
+.navbar-nav[b-71o0b7dox9] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav[b-71o0b7dox9] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-item[b-71o0b7dox9] {
+    position: relative; /* Para que o ::after possa ser posicionado relativamente ao link */
+}
+
+    .nav-item[b-71o0b7dox9]::after {
+        content: ""; /* Cria o elemento que será a "linha" */
+        display: block; /* Torna o elemento um bloco para que possamos aplicar largura e altura */
+        position: absolute; /* Posiciona a "linha" de acordo com o link pai */
+        bottom: -5px; /* Posiciona a "linha" abaixo do link */
+        left: 0; /* Alinha a "linha" à esquerda do link */
+        width: 100%; /* Define a largura da "linha" igual à largura do link */
+        height: 3px; /* Define a altura da "linha" (aqui, ela terá 3 pixels de altura) */
+        background-color: #DC143C; /* Cor da "linha" (aqui, crimson) */
+        opacity: 0; /* Inicialmente, deixamos a "linha" invisível */
+        transition: opacity 0.3s; /* Adiciona uma transição para um efeito suave */
+    }
+
+    .nav-item:hover[b-71o0b7dox9]::after {
+        opacity: 1; /* Quando o mouse estiver sobre o link, torna a "linha" visível */
+    }
+
+.nav-item[b-71o0b7dox9] {
+    /* Estilos padrão dos links */
+    font-size: 18px; /* Tamanho de fonte padrão */
+    transition: font-size 0.5s; /* Adiciona uma transição para um efeito suave */
+    /* Outros estilos, se necessário */
+}
+
+    .nav-item:hover[b-71o0b7dox9] {
+        font-size: 22px; /* Tamanho de fonte ao passar o mouse */
+    }
+
+
+.footer-column[b-71o0b7dox9] {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column-line[b-71o0b7dox9] {
+    border: 0;
+    max-width: 195px;
+    text-transform: uppercase;
+    font-family: 'heroregular';
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.footer-column-item[b-71o0b7dox9] {
+    color: white;
+    text-decoration: none;
+}

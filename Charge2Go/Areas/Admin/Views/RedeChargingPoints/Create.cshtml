@@ -1,0 +1,48 @@
+﻿@model Charge2Go.Models.RedeChargingPoint
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>RedeChargingPoint</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NormalChargingPointTitle" class="control-label"></label>
+                <input asp-for="NormalChargingPointTitle" class="form-control" />
+                <span asp-validation-for="NormalChargingPointTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NormalChargingPointDescription" class="control-label"></label>
+                <input asp-for="NormalChargingPointDescription" class="form-control" />
+                <span asp-validation-for="NormalChargingPointDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuickChargingPointTitle" class="control-label"></label>
+                <input asp-for="QuickChargingPointTitle" class="form-control" />
+                <span asp-validation-for="QuickChargingPointTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuickChargingPointDescription" class="control-label"></label>
+                <input asp-for="QuickChargingPointDescription" class="form-control" />
+                <span asp-validation-for="QuickChargingPointDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

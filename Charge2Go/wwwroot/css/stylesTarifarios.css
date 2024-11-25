@@ -1,0 +1,101 @@
+﻿/* Middle Wrapper */
+.middle_wrapper {
+    background-image: url(/Images/charge2go_tariffMiddle_background.png);
+    padding-top: 200px;
+    padding-bottom: 160px;
+    margin-bottom: 40px;
+    background-position: top;
+    background-size: cover;
+}
+
+/* Tarifas Wrapper */
+.tarifas_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+    .tarifas_wrapper .image_wrapper {
+        flex-basis: 70%;
+        margin-bottom: 30px;
+        text-align: center;
+        margin-left:180px
+    }
+
+        .tarifas_wrapper .image_wrapper img {
+            max-width: 100%;
+        }
+
+    .tarifas_wrapper .description {
+        flex-basis: 48%;
+        font-family: Lucida Console;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-left: 350px;
+    }
+
+/* Campanha Wrapper */
+.campanha_wrapper {
+    margin-top: 40px;
+    background-color: #4DA541;
+    padding: 30px;
+}
+
+    .campanha_wrapper h1 {
+        color: #FFFFFF;
+    }
+
+    .campanha_wrapper .description {
+        font-size: 25px;
+        color: #FFFFFF;
+        margin-top: 30px;
+    }
+
+/* Mobile Styles */
+@media (max-width: 767px) {
+    .tarifas_wrapper .image_wrapper,
+    .tarifas_wrapper .description {
+        flex-basis: 100%;
+    }
+}
+
+/* Bottom Section Styles */
+.top-image-text-container {
+    position: relative;
+}
+
+.inner-inner-container {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+    .position-absolute h1,
+    .position-absolute h2 {
+        font-size: 25px;
+        line-height: 1.5;
+        font-weight: normal;
+    }
+
+    .position-absolute .btn {
+        font-size: 20px;
+        padding: 15px 30px;
+        border-radius: 25px;
+        background-color: #fff;
+        color: lawngreen;
+        font-family: 'heroregular', sans-serif;
+        text-transform: uppercase;
+    }
+
+.inner-inner-container img {
+    width: 50%;
+    margin-top: 20px;
+    vertical-align: central;
+}

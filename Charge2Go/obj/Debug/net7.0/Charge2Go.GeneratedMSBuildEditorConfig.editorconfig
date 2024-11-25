@@ -1,0 +1,263 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Charge2Go
+build_property.RootNamespace = Charge2Go
+build_property.ProjectDir = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Charge2Go\Charge2Go\Charge2Go\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Charge2Go\Charge2Go\Charge2Go
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQSQuestions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1F1ZXN0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQSQuestions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1F1ZXN0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQSQuestions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1F1ZXN0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQSQuestions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1F1ZXN0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQSQuestions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1F1ZXN0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQS/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQS/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQS/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQS/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/FAQS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRkFRU1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageMiddles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VNaWRkbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageMiddles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VNaWRkbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageMiddles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VNaWRkbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageMiddles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VNaWRkbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageMiddles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VNaWRkbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageSliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageSliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageSliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageSliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/HomePageSliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingPoints/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nUG9pbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingPoints/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nUG9pbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingPoints/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nUG9pbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingPoints/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nUG9pbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingPoints/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nUG9pbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingTops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nVG9wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingTops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nVG9wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingTops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nVG9wc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingTops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nVG9wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/RedeChargingTops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVkZUNoYXJnaW5nVG9wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffBottoms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmQm90dG9tc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffBottoms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmQm90dG9tc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffBottoms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmQm90dG9tc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffBottoms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmQm90dG9tc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffBottoms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmQm90dG9tc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffMiddles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmTWlkZGxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffMiddles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmTWlkZGxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffMiddles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmTWlkZGxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffMiddles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmTWlkZGxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffMiddles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmTWlkZGxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffTops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmVG9wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffTops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmVG9wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffTops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmVG9wc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffTops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmVG9wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/TariffTops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFyaWZmVG9wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Home/FAQs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Home/Rede.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Home/Tarifarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXJpZmFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-71o0b7dox9
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Charge2Go/Charge2Go/Charge2Go/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h2pl4sgzhj

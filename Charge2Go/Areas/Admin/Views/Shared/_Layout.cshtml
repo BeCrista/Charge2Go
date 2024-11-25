@@ -1,0 +1,128 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Charge2Go</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+    <link rel="stylesheet" href="~/Charge2Go.styles.css" asp-append-version="true" />
+</head>
+<body style="display: flex; flex-direction: column; min-height: 100vh; margin: 0;">
+    <header>
+        <div class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                @Html.ActionLink("Charge2Go", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                    <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                        <ul class="nav navbar-nav me-auto">
+                            <li class="nav-item">@Html.ActionLink("HomePageSlider", "Index", "HomePageSliders", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("HomePageMiddle", "Index", "HomePageMiddles", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("TariffTop", "Index", "TariffTops", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("TariffMiddle", "Index", "TariffMiddles", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("TariffBottom", "Index", "TariffBottoms", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("RedeTop", "Index", "RedeChargingTops", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("RedeCharging", "Index", "RedeChargingPoints", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("FAQs", "Index", "FAQS", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("FAQsQuestions", "Index", "FAQSQuestions", new { area = "Admin" }, new { @class = "nav-link" })</li>
+                        </ul>
+                        @*@Html.Partial("_LoginPartial")*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-center text-lg-start text-muted mt-auto" style="width:100%;">
+        <!-- Section: Social media -->
+        <!-- Section: Links  -->
+        <section class="p-3 border-bottom" style="background-color: darkseagreen">
+            <div class="container text-center text-md-start mt-5">
+                <!-- Grid row -->
+                <div class="row mt-3">
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                        <!-- Content -->
+                        <h6 class="mb-4">
+                            <img src="~/Images/charge2go_logo.png" class="custom-logo" alt="charge2go" style="width:50%">
+                        </h6>
+                        <p>
+                            A Ecochoice, empresa especializada no setor da energia, e a KLC, player de referência em Portugal no sector da mobilidade eléctrica, celebraram uma parceria estratégica com objectivo de oferecer a melhor solução para o carregamento de veículos eléctricos.
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            Menu
+                        </h6>
+                        <ul class="footer-column">
+                            <li class="footer-column-line">
+                                <a style="color: white; text-decoration: none;" asp-area="" asp-controller="Home" asp-action="Tarifarios">Tarifários</a>
+                            </li>
+                            <li class="footer-column-line">
+                                <a style="color: white; text-decoration: none;" asp-area="" asp-controller="Home" asp-action="Rede" style="color: #6BAB4D;">Rede</a>
+                            </li>
+                            <li class="footer-column-line">
+                                <a style="color: white; text-decoration: none;" asp-area="" asp-controller="Home" asp-action="FAQs" style="color: #6BAB4D;">FAQS</a>
+                            </li>
+                            <li class="footer-column-line">
+                                <a style="color: white; text-decoration: none; max-width:195px" asp-area="" asp-controller="Home" asp-action="Index" style="color: #6BAB4D;">Contacte-Nos</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            Utilizador
+                        </h6>
+                        <p>
+                            <a href="/" style="color: white; text-decoration: none; font-family: 'heroregular'; text-transform: uppercase;">Login</a>
+                        </p>
+                        <p>
+                            <a href="/" style="color: white; text-decoration: none; font-family: 'heroregular'; text-transform: uppercase;">FAQ</a>
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                    <!-- Grid column -->
+                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold mb-4">Contactos</h6>
+                        <p><i class="bi bi-house-door-fill"></i> Rua Da Cintura Do Porto De Lisboa Prédio B – Bloco B – 5ºB 1950 323 Lisboa</p>
+                        <p>
+                            <i class="bi bi-envelope-fill"></i>
+                            comercial@charge2go.pt
+                        </p>
+                        <p>
+                            <i class="bi bi-telephone-fill"></i> 00351 213 879 412
+                            (chamada para a rede fixa nacional)
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+                </div>
+                <!-- Grid row -->
+            </div>
+        </section>
+    </footer>
+    <!-- Footer -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
